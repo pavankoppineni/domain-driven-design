@@ -20,3 +20,11 @@
 
 * https://martinfowler.com/eaaDev/DomainEvent.html
 * https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation
+
+## Elements in DDD
+
+* Specification Pattern
+* Aggregate Pattern
+* Value Objects
+* Domain Services
+* Domain Events
